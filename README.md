@@ -1,4 +1,5 @@
 # Welcome 
+<img width="643" alt="image" src="https://github.com/user-attachments/assets/f05d61df-f823-4119-bd0b-c9cf6d6a978e" />
 
 ## Project info
 
